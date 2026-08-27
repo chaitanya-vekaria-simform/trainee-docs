@@ -18,6 +18,8 @@
 | [📜 Scripting](scripting/) | Bash & Python scripting for DevOps — automation, CI/CD, K8s, monitoring |
 | [☸️ Kubernetes](kubernetes/) | K8s architecture, workloads, networking, Helm, security, production patterns |
 | [☁️ Azure](azure/) | Azure DevOps, AKS, Pipelines, IaC (Bicep/Terraform), monitoring, security, migration |
+| [📊 Monitoring](monitoring/) | Prometheus, Grafana, Loki, ELK Stack — metrics, dashboards, log aggregation |
+| [⚡ Power Platform](power-platform/) | Microsoft Power Automate — workflow automation, approvals, connectors |
 
 ---
 
@@ -37,6 +39,8 @@
 | [Scripting for DevOps Handbook](scripting/scripting_handbook.md) | Scripting |
 | [Kubernetes Handbook](kubernetes/kubernetes_handbook.md) | Kubernetes |
 | [DevOps on Azure Handbook](azure/azure_handbook.md) | Azure |
+| [Monitoring & Observability Stack Handbook](monitoring/monitoring_stack_handbook.md) | Monitoring |
+| [Power Platform Automation Handbook](power-platform/power_platform_handbook.md) | Power Platform |
 
 ---
 
@@ -92,6 +96,12 @@
 │   ├── README.md          ← Azure category index
 │   ├── azure_handbook.md  ← DevOps on Azure guide
 │   └── azure_batch_state.md  ← Batch review tracker
+├── monitoring/
+│   ├── README.md          ← Monitoring category index
+│   └── monitoring_stack_handbook.md  ← Prometheus, Grafana, Loki, ELK guide
+├── power-platform/
+│   ├── README.md          ← Power Platform category index
+│   └── power_platform_handbook.md  ← Power Automate guide
 ```
 
 ---
